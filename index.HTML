@@ -1,5 +1,15 @@
-﻿<html>
-<title><i>Index</title>	
+<html>
+<title>Index</title>	
+<head>
+	<style>
+table{
+	border-radius: 5px;
+    border: 2px solid #b2b2b2;
+    padding: 10px; 
+}
+
+</style>
+</head>
 <body>
 <h1 id="heading1">Multi-Device Website</h1>
 <p>
@@ -28,5 +38,61 @@ devices are blurring even these lines.
 <p>
 <a href="#heading1">Top</a>
 </p>
+<table cellpadding="0">
+<form name="calc">
+
+<tr>
+<td colspan=1>&nbsp</td><td colspan=5><input type=text name="display" style="border-color:#87CEEB"></td>
+</tr>
+<tr><td colspan=7>&nbsp;</td><td>&nbsp</td><td>&nbsp</td> <td>&nbsp</td><td>&nbsp</td><td>&nbsp</td></tr>
+
+<tr>
+<td colspan=1>&nbsp</td><td colspan=2 rowspan=1><input type=button value="Clear" ></td>
+
+<td ><input type=button value="=" ></td>
+
+<td ><input type=button value="+/-"></td>
+
+<td ><input type=button value="."></td>&nbsp&nbsp
+
+<tr>
+<td colspan=1>&nbsp</td><td colspan=1><input type=button value="*"></td>
+
+<td><input type=button value="/"></td>
+
+<td><input type=button value="+"></td>
+
+<td><input type=button value="-"></td>
+
+</tr>
+
+<tr>
+<td colspan=1>&nbsp</td><td><input type=button value="1"></td>
+
+<td><input type=button value="2"></td>
+
+<td><input type=button value="3" ></td>
+
+<td><input type=button value="4" ></td>
+
+<td><input type=button value="5" ></td>
+</tr>
+
+<tr>
+
+<td colspan=1>&nbsp</td><td><input type=button value="6" ></td>
+
+<td><input type=button value="7" ></td>
+
+<td><input type=button value="8" ></td>
+
+<td><input type=button value="9" ></td>
+
+<td><input type=button value="0" ></td>
+
+</tr> 
+</form>
+
+</table>
 </body>
 </html>
