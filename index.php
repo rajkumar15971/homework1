@@ -24,7 +24,7 @@ devices are blurring even these lines.
 <p><ins>Hello World !!</p>
 <p><del>Hello World !!</p>
 <p><mark>Hello World !!</p>
-<a href="file:///C:/Users/rajkumar/myhomework15971/table.php">Table page</a>
+<a href="http://homework1-15971.herokuapp.com/">Table page</a>
 <p>
 <a href="#heading1">Top</a>
 </p>
